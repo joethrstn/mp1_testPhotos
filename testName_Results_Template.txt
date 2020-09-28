@@ -1,0 +1,23 @@
+Testing Log 
+
+Keep a list of all comparisons so that everyone know which images appear correct or incorrect. 
+Copy and paste the example entry (including equals signs) and paste at the bottom to log a new comparison.
+
+Example Entry:
+===================================================
+Date & Time:
+9/28 @ 2:13
+
+Name: (who did the comparing)
+Joe
+
+Compared: (List the 2 files you compared)
+15088_denoise_joe_1
+15088_denoise_satish_3
+
+Result: (Passed or Failed the comparison)
+Failed
+
+Notes: (If failed, then talk about what might have gone wrong or if you think you know which image is wrong)
+satish image appeared to be too red after denoising
+===================================================
